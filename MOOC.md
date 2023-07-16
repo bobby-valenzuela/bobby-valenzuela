@@ -8,7 +8,7 @@ A collection of online courses I've completed.
 - [Linux/Bash Scripting](linuxbash-scripting)
 - [Data Analytics](#data-analytics)
 - [Gen IT/Networking](gen-itnetworking)
-- [Windows/Powershell](#windows/powershell)
+- [Windows/Powershell](#windowspowershell)
 - [Philosophy, Science, and Other](#philosophy-science-and-other)
 
 <br />
