@@ -1,13 +1,13 @@
 A collection of online courses I've completed.
 
 - [CyberSecurity](#cybersecurity)
-- [Programming/Web Development](#programmingweb-development)
+- [Programming/Web Development](#programming-and-web-development)
 - [Python](#python)
 - [JavaScript](#javascript)
 - [SQL](#sql)
 - [Linux/Bash Scripting](linuxbash-scripting)
 - [Data Analytics](#data-analytics)
-- [Gen IT/Networking](gen-itnetworking)
+- [Gen IT/Networking](general -itnetworking)
 - [Windows/Powershell](#windowspowershell)
 - [Philosophy, Science, and Other](#philosophy-science-and-other)
 
@@ -35,7 +35,7 @@ A collection of online courses I've completed.
 
 <br />
 
-# Programming/Web Development
+# Programming and Web Development
 - [Coursera] [C Programming with Linux]
 - - [C Programming: Getting Started - 1](https://www.coursera.org/account/accomplishments/certificate/V5RLV7LXRVE4)
   - [C Programming: Language Foundations - 2](https://www.coursera.org/account/accomplishments/certificate/9QPPFADHBRZZ)
@@ -125,7 +125,7 @@ A collection of online courses I've completed.
 
 <br />
 
-# Gen IT/Networking
+# General IT and Networking
 - [Coursera] [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9N7ZH7R5VCM3)
 - - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/certificate/R9XCJKYDPCPR)
   - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/certificate/Q2JWSYJBKHPU)
