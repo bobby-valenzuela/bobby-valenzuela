@@ -1,15 +1,15 @@
 A collection of online courses I've completed.
 
 - [CyberSecurity](#cybersecurity)
-- [Programming/Web Development](#programming/web-development)
+- [Programming/Web Development](#programmingweb-development)
 - [Python](#python)
 - [JavaScript](#javascript)
 - [SQL](#sql)
-- [Linux/Bash Scripting](linux/bash-scripting)
+- [Linux/Bash Scripting](linuxbash-scripting)
 - [Data Analytics](#data-analytics)
-- [Gen IT/Networking](gen-it/networking)
+- [Gen IT/Networking](gen-itnetworking)
 - [Windows/Powershell](#windows/powershell)
-- [Philosophy, Science, and Other](#philosophy,-science,-and-other)
+- [Philosophy, Science, and Other](#philosophy-science-and-other)
 
 <br />
 
