@@ -49,6 +49,7 @@ A collection of online courses I've completed.
 - [FreeCodeCamp] [Responsive Web Design](https://www.freecodecamp.org/certification/bobby-valenzuela/responsive-web-design) 
 - [Udemy] [Git Started with GitHub](https://www.udemy.com/certificate/UC-f50c930c-5703-4507-ad65-f8c395d3cad2/)
 - [Udemy] [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/certificate/UC-WNR4QLMW/)
+- [Udemy] [Vim Masterclass](https://www.udemy.com/course/vim-commands-cheat-sheet/learn/lecture/7340588#overview)
 - [HackerRank] [CSS](https://www.hackerrank.com/certificates/20f293546b75)
 
 
