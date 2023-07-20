@@ -36,7 +36,7 @@ A collection of online courses I've completed.
 <br />
 
 # Programming and Web Development
-- [Coursera] [C Programming with Linux](https://www.coursera.org/account/accomplishments/specialization/certificate/2V3LN9GXVK5C)
+- [Coursera] [C Programming with Linux Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2V3LN9GXVK5C)
 - - [C Programming: Getting Started - 1](https://www.coursera.org/account/accomplishments/certificate/V5RLV7LXRVE4)
   - [C Programming: Language Foundations - 2](https://www.coursera.org/account/accomplishments/certificate/9QPPFADHBRZZ)
   - [C Programming: Modular Programming and Memory Management - 3](https://www.coursera.org/account/accomplishments/certificate/RHSP5UR5J5LS)
@@ -65,8 +65,8 @@ A collection of online courses I've completed.
   - [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/certificate/EASY2M87MDVV)
   - [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/certificate/G7LUBTANPKR4)
   - [Configuration Management and the Cloud](https://www.coursera.org/account/accomplishments/certificate/4NR9ERLMS8DY)
-  - [Automating Real-World Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/JBV95WNSWBJX)
-- [Udemy] [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/certificate/UC-79a037be-1fe6-4783-9163-5eba88a8ee0c/)
+  - [Automating -World Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/JBV95WNSWBJX)
+- [Udemy] [The CompReallete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/certificate/UC-79a037be-1fe6-4783-9163-5eba88a8ee0c/)
 - [Udemy] [The Modern Python 3 Bootcamp](https://www.udemy.com/certificate/UC-42ebe013-5e63-4781-b1e8-58f5aa29e366/)
 - [FreeCodeCamp] [Scientific Computing with Python](https://www.freecodecamp.org/certification/bobby-valenzuela/scientific-computing-with-python-v7)
 - [HackerRank] [Python I](https://www.hackerrank.com/certificates/1a879ab8124e)
