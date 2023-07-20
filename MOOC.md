@@ -36,11 +36,14 @@ A collection of online courses I've completed.
 <br />
 
 # Programming and Web Development
-- [Coursera] [C Programming with Linux]
+- [Coursera] [C Programming with Linux](https://www.coursera.org/account/accomplishments/specialization/certificate/2V3LN9GXVK5C)
 - - [C Programming: Getting Started - 1](https://www.coursera.org/account/accomplishments/certificate/V5RLV7LXRVE4)
   - [C Programming: Language Foundations - 2](https://www.coursera.org/account/accomplishments/certificate/9QPPFADHBRZZ)
   - [C Programming: Modular Programming and Memory Management - 3](https://www.coursera.org/account/accomplishments/certificate/RHSP5UR5J5LS)
   - [C Programming: Pointers and Memory Management - 4](https://www.coursera.org/account/accomplishments/certificate/D24SD55FVTGP)
+  - [C Programming: Advanced Data Types - 5](https://www.coursera.org/account/accomplishments/certificate/RS4WSVT8FPHU)
+  - [Linux Basics: The Command Line Interface - 6](https://www.coursera.org/account/accomplishments/certificate/7NYPY9XUS88W)
+  - [C Programming: Using Linux Tools and Libraries - 7](https://www.coursera.org/account/accomplishments/certificate/86KGEASY8NGQ)
 - [Coursera] [Visual Elements of User Interface Design](https://www.coursera.org/account/accomplishments/certificate/B9SS3QKM6FYX)
 - [Coursera] [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/certificate/UDQTSUJCFRWR)
 - [Coursera] [Introduction to HTML5](https://www.coursera.org/account/accomplishments/certificate/NZY9VKTJH3WY)
