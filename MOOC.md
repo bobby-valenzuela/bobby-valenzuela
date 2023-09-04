@@ -80,6 +80,7 @@ Of course, this really isn't a representation of my skill level (as experience a
 # JavaScript
 - [Coursera] [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/certificate/XDKNEQHJ6QRQ)
 - [Udemy] [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/certificate/UC-ef7acfe9-0347-40dc-9043-95bffc31c6e0/)
+- [Udemy] [JavaScript - The Complete Guide 2023 (Beginner + Advanced)](https://www.udemy.com/certificate/UC-19f32593-4b39-4dec-805e-05bbbd39c904/)
 - [Udemy] [Modern JavaScript (Complete guide, from Novice to Ninja)](https://www.udemy.com/certificate/UC-89e0c506-b43d-49a9-ae98-7f06beede54a/)
 - [Udemy] [Accelerated ES6 JavaScript Training](https://www.udemy.com/certificate/UC-0a1ba8d0-02e3-462c-aedd-d9d07daf05dd/)
 - [Udemy] [Essentials in JavaScript ES6 - A Fun and Clear Introduction](https://www.udemy.com/certificate/UC-5f9983a5-2a01-485b-a6ad-14e83aa5e96d/)
