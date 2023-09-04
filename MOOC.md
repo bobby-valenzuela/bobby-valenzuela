@@ -1,4 +1,7 @@
 A collection of online courses I've completed.
+Of course, this really isn't a representation of my skill level (as experience and actual projects are best to show that) but more to show the topics in tech (or otherwise) that I am interested in and that I choose to spend my time learning more about.
+
+<br>
 
 - [CyberSecurity](#cybersecurity)
 - [Programming/Web Development](#programming-and-web-development)
@@ -141,6 +144,7 @@ A collection of online courses I've completed.
 - [Udemy] [Introduction to Computer Networks for Non-Techies](https://www.udemy.com/certificate/UC-51b618bb-96ac-479d-94e2-952c91cce535/)
 - [Udemy] [TOTAL: CompTIA A+ Certification (220-1002).](https://www.udemy.com/certificate/UC-68358917-c0f1-4dbf-ae4c-a3cd512f03fc/)
 - [Udemy] [TOTAL: CompTIA A+ Certification (220-1001).](https://www.udemy.com/certificate/UC-6e5b54c0-e1d0-402f-83aa-af6f2d865ab8/)
+- [Udemy] [Fundamentals of Network Engineering](https://www.udemy.com/certificate/UC-f4eda3d2-430c-44da-a428-35392bb62bba/)
 
 
 <br />
