@@ -33,6 +33,7 @@ Of course, this really isn't a representation of my skill level (as experience a
 - [Udemy] [Learn Ethical Hacking From Scratch](https://www.udemy.com/certificate/UC-57a8d9e1-0cd1-4e20-842c-b35a554f8130/)
 - [Udemy] [Learn Bug Bounty Hunting & Web Security Testing From Scratch](https://www.udemy.com/certificate/UC-132e4096-6f05-421c-bdf7-c03ffa13ec8b/)
 - [Udemy] [Website Hacking / Penetration Testing](https://www.udemy.com/certificate/UC-6f4ace44-01f6-466c-af67-b2adc2225e41/)
+- [Udemy] [Complete Ethical Hacking Bootcamp 2023: Zero to Mastery](https://www.udemy.com/certificate/UC-ae859166-bf99-41d3-a0d2-236be8e55951/)
 - [TryHackMe] [Pre-Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VRURFLTG3I.png)
 - [TryHackMe] [Into to CyberSecurity Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RAY3VBZTYN.png)
 
